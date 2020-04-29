@@ -1,2 +1,2 @@
 # fakeVehiculeDatabase
-Fake JSON REST API for iCouv
+Fake JSON REST API
