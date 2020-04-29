@@ -46,5 +46,21 @@
     "jourImmat": "30",
     "moisImmat": "Octobre",
     "annéeImmat": "2013"
+  },
+  "CX544NY": {
+    "id": 3,
+    "type": "citadine",
+    "marque": "RENAULT",
+    "modèle": "R4",
+    "puissance" : "34",
+    "motorisation" : "1.0",
+    "énergie": "essence",
+    "boite": "manuelle",
+    "portes": "5",
+    "cv": "4",
+    "co2": "-",
+    "jourImmat": "20",
+    "moisImmat": "Avril",
+    "annéeImmat": "1989"
   }
 }
