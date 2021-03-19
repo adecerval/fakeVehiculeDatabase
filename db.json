@@ -1,52 +1,50 @@
 {
-  "plaques":[
-    {
-      "licensePlate": "CX544NY",
-      "fuel": "petrol",
-      "brand": "RENAULT",
-      "model": "R4",
-      "insurance": {
-        "isValid": false,
-        "startDate": "2018-05-05T00:00:00.000Z",
-        "endDate": "2020-04-15T00:00:00.000Z"
-      },
-      "mot": {
-        "lastControl": "2020-08-11T00:00:00.000Z",
-        "remark": "compliant",
-        "isValid": true
-      }
+  "CX544NY":{
+    "licensePlate": "CX544NY",
+    "fuel": "petrol",
+    "brand": "RENAULT",
+    "model": "R4",
+    "insurance": {
+      "isValid": false,
+      "startDate": "2018-05-05T00:00:00.000Z",
+      "endDate": "2020-04-15T00:00:00.000Z"
     },
-    {
-      "licensePlate": "FL691LW",
-      "fuel": "Diesel",
-      "brand": "BMW",
-      "model": "X5",
-      "insurance": {
-        "isValid": true,
-        "startDate": "2020-05-05T00:00:00.000Z",
-        "endDate": "2022-04-15T00:00:00.000Z"
-      },
-      "mot": {
-        "lastControl": "2020-08-11T00:00:00.000Z",
-        "remark": "compliant",
-        "isValid": true
-      }
+    "mot": {
+      "lastControl": "2020-08-11T00:00:00.000Z",
+      "remark": "compliant",
+      "isValid": true
+    }
+  },
+  "FL691LW": {
+    "licensePlate": "FL691LW",
+    "fuel": "Diesel",
+    "brand": "BMW",
+    "model": "X5",
+    "insurance": {
+      "isValid": true,
+      "startDate": "2020-05-05T00:00:00.000Z",
+      "endDate": "2022-04-15T00:00:00.000Z"
     },
-    {
-      "licensePlate": "CZ543SQ",
-      "fuel": "Diesel",
-      "brand": "PEUGEOT",
-      "model": "2008",
-      "insurance": {
-        "isValid": false,
-        "startDate": "2020-05-05T00:00:00.000Z",
-        "endDate": "2021-01-15T00:00:00.000Z"
-      },
-      "mot": {
-        "lastControl": "2018-08-11T00:00:00.000Z",
-        "remark": "not compliant",
-        "isValid": false
-      }
-    } 
-  ]
+    "mot": {
+      "lastControl": "2020-08-11T00:00:00.000Z",
+      "remark": "compliant",
+      "isValid": true
+    }
+  },
+  "CZ543SQ": {
+    "licensePlate": "CZ543SQ",
+    "fuel": "Diesel",
+    "brand": "PEUGEOT",
+    "model": "2008",
+    "insurance": {
+      "isValid": false,
+      "startDate": "2020-05-05T00:00:00.000Z",
+      "endDate": "2021-01-15T00:00:00.000Z"
+    },
+    "mot": {
+      "lastControl": "2018-08-11T00:00:00.000Z",
+      "remark": "not compliant",
+      "isValid": false
+    }
+  } 
 }
