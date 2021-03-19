@@ -1,5 +1,5 @@
 {
-  "plaques":
+  "plaques":[
     {
       "licensePlate": "CX544NY",
       "fuel": "petrol",
@@ -12,8 +12,41 @@
       },
       "mot": {
         "lastControl": "2020-08-11T00:00:00.000Z",
-        "remark": "conform",
+        "remark": "compliant",
         "isValid": true
       }
-    }
+    },
+    {
+      "licensePlate": "FL691LW",
+      "fuel": "Diesel",
+      "brand": "BMW",
+      "model": "X5",
+      "insurance": {
+        "isValid": true,
+        "startDate": "2020-05-05T00:00:00.000Z",
+        "endDate": "2022-04-15T00:00:00.000Z"
+      },
+      "mot": {
+        "lastControl": "2020-08-11T00:00:00.000Z",
+        "remark": "compliant",
+        "isValid": true
+      }
+    },
+    {
+      "licensePlate": "CZ543SQ",
+      "fuel": "Diesel",
+      "brand": "PEUGEOT",
+      "model": "2008",
+      "insurance": {
+        "isValid": false,
+        "startDate": "2020-05-05T00:00:00.000Z",
+        "endDate": "2021-01-15T00:00:00.000Z"
+      },
+      "mot": {
+        "lastControl": "2018-08-11T00:00:00.000Z",
+        "remark": "not compliant",
+        "isValid": false
+      }
+    } 
+  ]
 }
